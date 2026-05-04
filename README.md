@@ -1,1 +1,1 @@
-# -Azure-SIEM-Setup
+# Azure-SIEM-Setup
